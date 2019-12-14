@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  [first_name: MyString
+  middle_name: MyString
+  last_name: MyString
+  email: MyString
+  password_digest: MyString
+  confirmation_token: MyString
+  confirmed_at: 2019-12-14 22:08:11
+  is_locked: false
+  is_deleted: 
+
+two:
+  [first_name: MyString
+  middle_name: MyString
+  last_name: MyString
+  email: MyString
+  password_digest: MyString
+  confirmation_token: MyString
+  confirmed_at: 2019-12-14 22:08:11
+  is_locked: false
+  is_deleted: 
